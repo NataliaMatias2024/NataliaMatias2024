@@ -9,19 +9,33 @@ Acredito que os melhores softwares são construídos com fundamentos sólidos e 
 
 Aqui você encontra a minha evolução pelo *Common Core* da 42. Clique nos nomes dos projetos para acessar os repositórios com o código-fonte e a documentação.
 
-| Milestone | Projetos | Status |
-| :---: | :--- | :---: |
-| **0** | [Libft](LINK_DO_REPO) | ✅ Finalizado |
-| **1** | [Born2BeRoot](LINK_DO_REPO) • [ft_printf](LINK_DO_REPO) • [get_next_line](LINK_DO_REPO) | ✅ Finalizado |
-| **2** | [Push_Swap](LINK_DO_REPO) • [MiniTalk](LINK_DO_REPO) | ✅ Finalizado |
-| **3** | [Minishell](LINK_DO_REPO) • [Philosophers](LINK_DO_REPO) | ✅ Finalizado |
-| **4** | [NetPractice](LINK_DO_REPO) • [Cube3D](LINK_DO_REPO) • [CPP00 a CPP04](LINK_DO_REPO) | 🚧 Em progresso |
+| Milestone | Projetos | Status | Score | 
+| :---: | :--- | :---: | :---: |
+| **0** | [Libft](https://github.com/NataliaMatias2024/Libft) | ✅ Finalizado | 100
+| **1** | Born2BeRoot  • [ft_printf](https://github.com/NataliaMatias2024/ft_printf)  • [get_next_line](https://github.com/NataliaMatias2024/get_next_line-) | ✅ Finalizado | 100 , 100 e 125
+| **2** | [Push_Swap](https://github.com/NataliaMatias2024/Push_Swap)  • [MiniTalk](https://github.com/NataliaMatias2024/MiniTalk) | ✅ Finalizado | 84 e 100
+| **3** | [Minishell](https://github.com/NataliaMatias2024/minishell)  • [Philosophers](https://github.com/NataliaMatias2024/Philosophers) | ✅ Finalizado | 100 , 100
+| **4** | [NetPractice](LINK_DO_REPO) • [Cube3D](LINK_DO_REPO)  • [CPP00 a CPP04](LINK_DO_REPO) | 🚧 Em progresso |
 
 ---
 ### 🛠️ Skills & Ferramentas
-* **Core:** C, C++ (Orientação a Objetos)
-* **Ops:** Linux, Bash, Git, Docker (em breve)
-* **Focus:** Arquitetura de Sistemas, Gerenciamento de Memória, Redes (TCP/IP)
+
+**Linguagens & Core**
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+
+<br>
+
+**Infraestrutura, Ops & Ferramentas**
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="TCP/IP" />
+</div>
 
 ### 📫 Vamos Conversar?
 <div align="left">
